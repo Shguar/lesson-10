@@ -161,10 +161,12 @@ footer h4{
 }
 
 .card-container{
-    background-color: #EEEBE9;
+    background-color: #EFEDEB;
 }
 
 .model{
+    display: flex;
+    justify-content: center;
     position: relative;
     max-height: 420px;
     margin-bottom: 23.35px;
@@ -228,11 +230,15 @@ footer h4{
     margin: 16px 25px;
 }
 
+.center-button{
+    display: flex;
+    justify-content: center;
+}
+
 footer button{
     cursor: pointer;
-    margin: 48px 50% 95px;
-    transform: translateX(-50%);
     color: #F26376;
+    margin: 32px 0 64px 0;
     background-color: #fff;
     border: 1px solid #FF6A6A ;
     width: 212px;
