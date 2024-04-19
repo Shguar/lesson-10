@@ -41,9 +41,7 @@
         margin: 0;
     }
 
-    footer button{
-        margin: 32px 50% 65px;
-    }
+
 
     .under{
         flex-direction: column;
@@ -159,10 +157,6 @@
         margin: 0;
     }
 
-    footer button{
-        margin: 32px 50% 65px;
-    }
-
     .under{
         flex-direction: column;
     }
@@ -200,7 +194,7 @@
 
     .down{
         flex-wrap: wrap;
-        justify-content: start;
+        justify-content: center;
     }
 
     .contact{
